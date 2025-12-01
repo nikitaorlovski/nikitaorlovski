@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <h1 align="center">👋 Привет, я <strong>killchik</strong></h1>
-<h3 align="center">Backend Developer • Python • FastAPI • Async</h3>
+<h3 align="center">Backend Developer • Python • FastAPI • Aiogram</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Backend-FastAPI-blue?logo=fastapi&logoColor=white" />
@@ -12,7 +12,7 @@
 
 ## 🚀 Обо мне
 
-Привет! Я — backend-разработчик, увлечённый созданием быстрых, надёжных и масштабируемых сервисов.  
+Я — backend-разработчик, занимаюсь созданием быстрых, надёжных и масштабируемых сервисов.  
 Люблю чистую архитектуру, асинхронность и работу с очередями.
 
 ---
@@ -38,6 +38,8 @@
 <p>
   <img src="https://img.shields.io/badge/Celery-%23378152.svg?style=for-the-badge&logo=celery&logoColor=white" />
   <img src="https://img.shields.io/badge/RabbitMQ-%23FF6600.svg?style=for-the-badge&logo=rabbitmq&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastStream-%2300A9E0.svg?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Taskiq-%235C3EE8.svg?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
 ### 🧪 Тестирование
